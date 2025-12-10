@@ -2,11 +2,7 @@ import type React from "react";
 import Link from "next/link";
 import {
   FaGithub,
-  FaLinkedin,
-  FaEnvelope,
-  FaPhone,
-  FaMapMarkerAlt,
-  FaCalendarAlt,
+  FaLinkedin
 } from "react-icons/fa";
 
 const Footer: React.FC = () => {
